@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Islam Sayed 👋
 
-<!--
-**eslam281/eslam281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Developer | Computer Science Student
 
-Here are some ideas to get you started:
+I build mobile applications with Flutter, focusing on
+clean architecture, scalable state management, and
+real-world backend integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Work With
+
+Flutter • Dart • BLoC • GetX
+Clean Architecture • Firebase
+REST APIs • Dio • GetIt
+MySQL • NestJS • Git
+
+---
+
+## 🛠 Featured Projects
+
+### 🏥 EG Healthcare
+A healthcare platform connecting doctors and patients.
+
+- Flutter
+- BLoC
+- Clean Architecture
+- Firebase
+- REST API
+- NestJS
+- MySQL
+
+[View Project →]
+
+### 🎵 Spotify Clone
+Flutter music application built while exploring BLoC
+and audio playback.
+
+[View Project →]
+
+### 📱 E-Commerce
+Flutter e-commerce application with authentication,
+API integration and payment features.
+
+[View Project →]
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Flutter Architecture
+- BLoC & State Management
+- AI-powered applications
+- Backend integration with NestJS
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn • GitHub • Email
