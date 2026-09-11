@@ -1,26 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Islam%20Sayed&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Flutter%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Islam%20Sayed&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=twinkle&desc=Flutter%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1400&color=2CDBD5&center=true&vCenter=true&width=760&lines=Building+mobile+apps+with+Flutter;BLoC+%7C+Clean+Architecture+%7C+Firebase;Exploring+Backend+Development+with+NestJS;Exploring+Local+AI+%26+RAG+Applications" alt="Typing SVG" />
-</a>
+  <br />
 
-<br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1400&color=2CDBD5&center=true&vcenter=true&width=760&lines=Building+mobile+apps+with+Flutter;BLoC+%7C+Clean+Architecture+%7C+Firebase;Exploring+Backend+Development+with+NestJS;Exploring+Local+AI+%26+RAG+Applications" alt="Typing SVG" />
+  </a>
 
-<a href="https://github.com/eslam281">
-  <img src="https://img.shields.io/badge/GitHub-eslam281-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/islam-sayed-a2a8b4259">
-  <img src="https://img.shields.io/badge/LinkedIn-Islam%20Sayed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:eslamsaydbdalzyzbry1212004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <br /><br />
 
-<br /><br />
+  <a href="https://github.com/eslam281"><img src="https://img.shields.io/badge/GitHub-eslam281-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/islam-sayed-a2a8b4259"><img src="https://img.shields.io/badge/LinkedIn-Islam%20Sayed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aslamsydbdalzyzbry@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=eslam281&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br /><br />
+
+  <img src="https://komarev.com/ghpvc/?username=eslam281&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
